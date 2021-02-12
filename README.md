@@ -16,4 +16,4 @@ This is a sample edit.
 
 ### Copyright
 
-Copyright notice
+Copyright notice to go here
