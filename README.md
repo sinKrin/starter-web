@@ -17,4 +17,4 @@ Please fork this repo and issue pull req for review
 
 ### Copyright
 
-Copyright notice to go here
+Copyright notice to go here. All rights reserved
