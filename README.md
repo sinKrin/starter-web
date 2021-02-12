@@ -12,7 +12,7 @@ This is sample text for the deployment section of the README
 
 ## Heading example 2
 
-This is a sample edit.
+Please fork this repo and issue pull req for review
 
 ### Copyright
 
