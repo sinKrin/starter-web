@@ -13,3 +13,7 @@ This is sample text for the deployment section of the README
 ## Heading example 2
 
 This is a sample edit.
+
+### Copyright
+
+Copyright notice
